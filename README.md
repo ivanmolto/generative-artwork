@@ -2,7 +2,7 @@
 
 ## ARTWORK
 
-![](crypto-roller-coaster-scream)
+![](crypto-roller-coaster-scream.png)
 
 And [here the link](https://github.com/ivanmolto/generative-artwork/blob/main/crypto-roller-coaster-scream.png)
 
