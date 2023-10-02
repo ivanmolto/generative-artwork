@@ -2,6 +2,10 @@
 
 ## ARTWORK
 
+Generative art for CENNZnet - Gitcoin Grants Round 11 Hackathon. 
+
+CENNZnet - Honorable mention 🏆
+
 ![](crypto-roller-coaster-scream.png)
 
 And [here is the link](https://github.com/ivanmolto/generative-artwork/blob/main/crypto-roller-coaster-scream.png)
